@@ -14,10 +14,12 @@
   "license": "MIT",
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
     "@storybook/addons": "^7.6.17",
     "@storybook/theming": "^8.6.12",
+    "polished": "^4.3.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
