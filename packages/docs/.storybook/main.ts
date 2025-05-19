@@ -31,7 +31,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === "PRODUCTION") {
-      config.base = "/Design-System-ReactJS/";
+      config.base = "/juniorcintra-ui-react/";
     }
 
     return config;
