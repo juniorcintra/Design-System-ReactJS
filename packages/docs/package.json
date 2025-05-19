@@ -15,6 +15,7 @@
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
     "@ignite-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
     "@storybook/addons": "^7.6.17",
