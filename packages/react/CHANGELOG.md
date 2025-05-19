@@ -1,5 +1,11 @@
 # @juniorcintra-ui/react
 
+## 3.0.1
+
+### Patch Changes
+
+- Publish
+
 ## 3.0.0
 
 ### Major Changes
