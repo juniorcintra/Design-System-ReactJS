@@ -11,8 +11,8 @@
     "packages/*"
   ],
   "devDependencies": {
-    "turbo": "^2.5.3",
-    "@changesets/cli": "^2.25.0"
+    "@changesets/cli": "^2.29.4",
+    "turbo": "^2.5.3"
   },
   "packageManager": "npm@10.2.4"
 }
