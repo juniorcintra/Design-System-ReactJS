@@ -1,7 +1,7 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@juniorcintra-ui/docs",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
@@ -14,10 +14,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@juniorcintra-ui/eslint-config": "*",
+    "@juniorcintra-ui/react": "*",
+    "@juniorcintra-ui/tokens": "*",
+    "@juniorcintra-ui/ts-config": "*",
     "@storybook/addons": "^7.6.17",
     "@storybook/theming": "^8.6.12",
     "phosphor-react": "^1.4.1",

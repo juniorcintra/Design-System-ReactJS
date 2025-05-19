@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@juniorcintra-ui/eslint-config",
   "rules": {
     "@typescript-eslint/no-explicit-any": "off"
   }
